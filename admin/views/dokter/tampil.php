@@ -15,7 +15,7 @@
                 <td>
                     #
                 </td>
-                <td>Nama</td><td>ID</td><td>NIP</td><th>Pendidikan</th><th>Spesialis</th><td>Aksi</td>
+                <td>Nama</td><td>ID</td><td>NIP</td><th>Pendidikan</th><th>Jabatan</th><td>Aksi</td>
             </tr>
         </thead>
         <tbody>
