@@ -34,8 +34,8 @@
         </nav>
         <div class="content" >
               <ul class="list-group col-md-3 col-xs-2">
-                <li class="list-group-item "><a href="http://localhost/sipus/admin/index.php?mod=dokter"> <i class="fa fa-address-card "></i> <span class="hidden-xs">Data Dokter</span></a></li>
-                <li class="list-group-item "><a href="index.php?mode=dokter"> <i class="fa fa-address-card "></i> <span class="hidden-xs">Data Pasien</span></a></li>
+                <li class="list-group-item "><a href="http://localhost/sipus/admin/index.php?mod=dokter"> <i class="fa fa-address-card "></i> <span class="hidden-xs">Data Pegawai</span></a></li>
+                <li class="list-group-item "><a href="index.php?mode=dokter"> <i class="fa fa-address-card "></i> <span class="hidden-xs">Data Masyarakat</span></a></li>
                 </ul>
             <div class="col-md-9 col-xs-10">
                 <?php include_once $content; ?>
