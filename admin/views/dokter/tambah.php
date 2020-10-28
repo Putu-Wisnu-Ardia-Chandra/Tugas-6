@@ -14,7 +14,7 @@
             <span class="text-danger"><?=(isset($err['no_id']))?$err['no_id']:'';?></span>
         </div>
         <div class="form-group">
-        <label for="">NIP</label>
+        <label for="">Nomor Pegawai</label>
             <input type="number" name="nip" value="<?=(isset($_POST['nip']))?$_POST['nip']:'';?>" class="form-control">
             <span class="text-danger"><?=(isset($err['nip']))?$err['nip']:'';?></span>
         </div>
