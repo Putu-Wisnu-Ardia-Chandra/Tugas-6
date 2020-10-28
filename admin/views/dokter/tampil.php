@@ -1,6 +1,6 @@
 <div class="row">
     <div class="pull-left">
-        <h4>Daftar Dokter</h4>
+        <h4>Daftar Pegawai</h4>
     </div>
     <div class="pull-right">
         <a href="index.php?mod=dokter&page=add">
