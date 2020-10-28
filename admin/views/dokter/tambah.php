@@ -3,7 +3,7 @@
 <form action="index.php?mod=dokter&page=save" method="POST">
     <div class="col-md-6">
         <div class="form-group">
-            <label for="">Nama Dokter</label>
+            <label for="">Nama Pegawai</label>
             <input type="text" name="nama_dokter" required value="<?=(isset($_POST['nama_dokter']))?$_POST['nama_dokter']:'';?>" class="form-control">
             <input type="hidden" name="id_dokter"  value="<?=(isset($_POST['id_dokter']))?$_POST['id_dokter']:'';?>" class="form-control">
             <span class="text-danger"><?=(isset($err['nama_dokter']))?$err['nama_dokter']:'';?></span>
