@@ -33,7 +33,7 @@
             <span class="text-danger"><?=(isset($err['id_pendidikan']))?$err['id_pendidikan']:'';?></span>
     </div>
     <div class="form-group">
-            <label for="">Spesialisasi</label>
+            <label for="">Jabatan</label>
             <select name="id_spesialisasi" class="form-control" required id="">
                 <option value="">Pilih Spesialisasi</option>
                 <?php if($spesialis != NULL){
