@@ -22,7 +22,7 @@
                             <span class="icon-bar"></span>
                             <span class="icon-bar"></span>                        
                           </button>
-                    <a class="navbar-brand" href="#">Sistem Informasi Desa</a>
+                    <a class="navbar-brand" href="#">Sistem Informasi Kantor Desa</a>
                 </div>
                 <div class="collapse navbar-collapse" id="myNavbar">
                     
